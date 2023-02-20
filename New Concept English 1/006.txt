@@ -1,0 +1,18 @@
+/**
+
+如何询问某件物品的品牌
+brand / What brand is this?
+
+Swedish adj. / Sweden n.
+
+This is Swedish meatball.
+
+English adj.n. / England / UK / Britain
+
+American adj.n. America n. / US / USA
+
+Italian adj.n. Italy n. / pasta 意面
+
+
+
+*/

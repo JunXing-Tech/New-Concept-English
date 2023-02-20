@@ -1,0 +1,45 @@
+/**
+单词
+
+I am ...
+
+You are ...
+
+he / she / it is ...
+
+nationality / What nationality are you? / Where are you from?
+
+job / What's your job?
+
+keyboard n.
+
+operator n.
+
+engineer 
+
+如何询问别人从哪里来？
+Where are you from?
+
+如何询问别人的工作？
+What's your job? / What do you do for a living?
+
+*/
+
+/**
+语法&&文章
+
+特殊疑问句 VS 一般疑问句？
+
+特殊疑问句 = 特殊疑问词 + 一般疑问句（去掉答案）
+
+特殊疑问词 --- What /Where
+
+What is your name?
+
+Where is she from?
+
+What nationality is he?
+
+Where are you from?
+
+*/

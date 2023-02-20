@@ -1,0 +1,56 @@
+/**
+语法&&单词
+
+customs - Goods to declare / Nothing to declare
+
+officer / office / What's her job?
+
+girl / boy
+
+Danish adj.n. Denmark n.
+
+Norwegian adj.n. Norway n.
+
+passsport
+
+brown
+
+tourist - I am new here,too - 我也是新来的
+
+friend - She is her friend.
+
+n.单数/复数 - 规则
+	1.直接加-s 
+		pen - pens / book - books
+		This is my pen. / These are my pens.
+	
+	2.以字母s,o,x,ch,sh结尾的单词加-es
+		dress - dresses / tomato - tomatoes / box - boxes  
+		watch - watches / dish - dishes
+		
+n.单数/复数 - 易错点
+	两个老师 / 两个老师们
+	two teachers
+
+n.单数/复数 - 如何学
+	死记硬背 VS 大量阅读
+	应试 VS 应用
+
+如何识别海关申报通道？
+
+如何表达英文n.复数？
+
+如何学习英文语法？
+
+*/
+
+/**
+Story
+
+Here they are.
+
+That's fine.
+
+What nationality are their friends?
+*/
+

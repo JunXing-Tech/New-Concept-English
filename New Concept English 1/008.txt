@@ -1,0 +1,27 @@
+/**
+单词&&练习
+
+他？她？他的？她的？ / he / his / she  / her
+
+policeman
+
+What's his job?
+
+taxi driver
+
+policewoman
+
+air hostess / flight attendant
+
+postman
+
+milkman
+
+nurse
+
+housewife
+
+mechanic
+
+hairdresser
+*/

@@ -1,0 +1,34 @@
+/**
+Practices&&Words
+
+empty adj.
+	This is an empty house. a/an
+
+full
+	This case is full
+
+large / medium / little
+
+sharp / blunt knife 
+
+small / big
+	Is that a dog?It's so small.
+
+glass
+	Give me a glass please.
+	Which one? That full one?
+	No,not full one.This empty one.
+
+cup
+
+bottle
+
+tin
+
+fork
+
+spoon
+	Give me a spoon please.
+	Which one?This new one?
+	No,not small one.That old one.
+*/

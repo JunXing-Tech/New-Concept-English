@@ -1,0 +1,21 @@
+/**
+Practices
+
+clean cup
+	Is there a clean cup on the floor?
+	No,there isn't one on the floor.	
+	There's a clean one on the table.
+
+large box
+
+sharp knife
+
+dirty fork
+
+full bottle
+
+blunt pencil
+
+small spoon
+
+*/

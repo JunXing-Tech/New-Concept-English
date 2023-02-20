@@ -1,0 +1,58 @@
+/**
+单词&&语法&&文章
+
+Where引导的特殊疑问句？
+	
+如何表达“笔在桌子上”？
+
+you/we/they的宾格？
+
+on  / shelf
+	on the shelf
+	The book is on the shelf.
+
+Where特殊疑问句
+	含义 - 哪里？
+	特殊疑问句 = 特殊疑问词 + 一般疑问句（去掉答案）
+	My book is on the shelf.
+	Is my book on the shelf?
+	Where is my book?
+	Where are the books?
+
+table
+table for two.(两桌人)
+	I want a table for two.
+
+plante
+	Where are the plates?
+
+cupboard
+
+cigarette
+
+television
+
+floor / carpet / cup
+
+dressing table
+
+magazine
+
+bed
+
+newspaper
+	The newspapers are on the floor.
+	Are the newspapers on the floor?
+	Where are the newspapers?
+	Give me some newspapers,please.
+	Which one?
+	The ones on the floor.
+
+stereo
+
+	you  v. you
+	we   v. us
+	they v. them
+
+No,not those.The ones on the shelf.
+*/

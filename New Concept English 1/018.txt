@@ -1,0 +1,28 @@
+/**
+单词&&练习
+
+they vs their?
+
+they - 他们 / their - 他们的
+
+sales reps.
+
+nurses.
+	What are their jobs?
+	Are they keyboard operators?
+	They aren't keyboard operators.
+	They're nurses.
+
+air hostesses.
+
+taxi driver.
+
+teachers.
+
+housewives.
+
+hairdressers.
+
+keyboard operators.
+
+*/

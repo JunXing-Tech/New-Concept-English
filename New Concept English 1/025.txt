@@ -1,0 +1,49 @@
+/**
+语法&&单词
+
+如何表达“某地有某物”？
+
+如何表达“在房间的中间”？
+
+如何表达“在左边/右边”？
+
+Mrs.
+
+kitchen
+	in the kitchen
+	The table is in the kitchen.
+	Is the table in the kitchen?
+	Where is the table?
+
+refrigerator
+
+right / left
+	on the left / right
+
+electric adj.
+
+cooker
+	Whose new cooker is this?
+	Where is the new cooker?
+
+middle / of / room
+	in the middle / of / the room
+	A of B
+	B 的 A
+	The table is in the middle of the room
+
+某地有某物 / 人 ：肯定句
+	There be + a / an + 某物  + 地点  
+	There is a table in the middle of the room.
+	There is an electric cooker in the kitchen.
+	否定句 be + not
+	一般疑问句 There be -> Be there
+*/
+
+/**
+文章
+
+泛指用 a / an 
+特指 the
+
+*/

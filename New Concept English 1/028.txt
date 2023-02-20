@@ -1,0 +1,16 @@
+/**
+
+Practices + Words
+
+trousers - 本身就是复数
+	My trousers are in the living room.
+	Are my trousers in the living rooms?
+	Where are my trousers?
+
+some VS any
+	Are there any newspapers on the shelf?
+	No,there aren't any newspapers.
+	There are some tickets.
+	Where are they?
+	They're in that handbag.
+*/

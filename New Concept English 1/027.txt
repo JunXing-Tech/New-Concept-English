@@ -1,0 +1,57 @@
+/**
+Grammar&&Words
+
+How many 特殊疑问句?
+
+living room
+
+near prep.
+
+window n.
+	The woman is near the window.
+	Is the woman near the window?
+	Where is the woman?
+
+armchair
+
+door
+	The boy is near the door.
+
+picture
+
+wall
+	Berlin Wall
+	The pictures are on the wall.
+
+How many 特殊疑问句
+	含义：多少
+	There are three armchairs in the living room.
+	Are there three armchairs in the living room?
+	How many armchairs are there in the living room?
+
+*/
+
+/**
+Grammar&&Story
+
+some VS any 异同？
+	同："一些"
+	异：在There be句型中 -> some肯定句 VS any否定/疑问句
+
+某地有某物 / 人 ： 肯定句
+There are + some + n.s + 地点
+	There are some chairs in the middle of the room.
+
+某地有某物 / 人 ： 否定句 -> There be + not + any +...
+There are + not + any + n.s + 地点
+	There aren't any chairs in the middle of the room.
+
+某地有某物 / 人 ： 一般疑问句 -> Be there + any +...
+Are there + any +n.s + 地点？
+	Are there any chairs in the middle of the room?	
+
+Yes,there are. / Yes,there is.
+
+Is there a stereo in the room?
+	Where is the stereo?
+*/

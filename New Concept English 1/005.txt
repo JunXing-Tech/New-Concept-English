@@ -1,0 +1,61 @@
+/**
+单词
+
+David Joseph Beckham
+	David - first name / given naem
+	Joseph - middle name
+	Beckham - surname / family name / last name
+
+Mr. Miss Mrs. Ms.
+	Mr.Bean(未知) + last name / surname
+	Mrs.A(已婚)
+	Miss A(未婚) eg.Miss Universe
+	Ms.A(未知)
+
+good morning / Morning
+
+good morning / atfernoon / evening / night
+
+new adj. + student n.
+
+French adj.n. / French fries = chips.
+
+German adj.n.
+
+Nice to meet you / first name
+
+What's up,man / Sup,man
+
+Japanese adj.n. / sushi(🍣) / Are they Japanese.
+
+Korean / kimchi
+
+Chinese 国籍 血统 / fusion food(无国界融合菜肴) / Mandarin; Cantonese
+
+too  / me too
+
+如何区分英文的姓与名？
+
+入境登记卡(arrival card)？
+
+如何表达我也是？
+
+*/
+
+/**
+语法&&文章
+
+冠词 - 含义
+
+a an + n.
+
+a + n.(首音标是辅音音标) / an + n.(首音标是元音音标)
+
+a pen / an apple / an umbrella / an egg / an hour / a university
+
+This is everybody - 这就是大家
+
+如何使用a / an
+a + n.(首音标是辅音音标) / an + n.(首音标是元音音标)
+
+*/

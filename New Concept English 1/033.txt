@@ -1,0 +1,42 @@
+/**
+Words
+
+fly v.
+
+day
+	It is a fine day.
+
+sky
+	The bird is flying in the sky.
+
+cloud
+	There are somes clouds in the sky.
+
+sun n. / shine v.
+	The sun is shining in the sky.
+
+with
+
+family
+
+
+walk
+	They are walking across the street.
+
+over prep.
+	The bird is flying over the city.
+
+bridge n. boat n.
+	The boat is under the bridge.
+	There is a boat under the bridge.
+	The boat is going under the bridge.
+
+river
+	There are some boats on the river.
+	Are there any boats on the river? 
+
+ship
+
+aeroplane
+
+*/

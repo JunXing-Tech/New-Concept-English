@@ -1,0 +1,32 @@
+/**
+Practices+Words
+
+big / small
+
+open / shut
+
+light / heavy
+
+long / short
+
+shoe
+	These shoes are nice.
+	Those are her shoes.
+	Are those her shoes?
+	Whose shoes are those?
+	
+	that翻译为那个（距离比较远）
+	this翻译为这个（距离比较近）
+	these翻译为这些，是this的复数形式（距离也较进）
+	those翻译为那些，是that的复数形式（距离比较远）
+	this和that都是指物体单数，these和those是指物体复数
+
+grandfather / grandmother
+	Whose grandfather is this?
+	Who is this?
+
+They v. them (动词前后人称不一样)
+	Look at that boy's shoes.
+	Look at ...
+	Look at those trousers
+*/

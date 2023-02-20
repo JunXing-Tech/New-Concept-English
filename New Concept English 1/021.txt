@@ -1,0 +1,43 @@
+/**
+
+Words&&Grammar&&Story
+
+如何表达“给我一本书”？
+
+I Me 都是我，区别再哪里？
+	I 主格 V. Me 宾格
+
+give v.
+	give me five.
+	give me a hug.
+
+give sb. sth.
+	give me a pen.
+	
+  i v.  me   my
+
+
+*
+you v. you your
+
+ he v. him  his
+ 
+she v. her  her
+
+ it v.  it  its
+*
+
+
+give him your ticket.Please!
+
+give me her passport.Please!
+
+one
+
+which
+
+Which one? - 哪一个？
+	Which book? This one?
+
+No,not that one.The red one.
+*/

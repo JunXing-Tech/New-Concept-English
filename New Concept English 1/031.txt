@@ -1,0 +1,107 @@
+/**
+语法&&单词
+
+何为时态？
+
+何为现在进行时？
+
+何为v.ing（现在分词）？
+
+
+时&态
+	动作发生的时间
+	动作的状态
+
+现在进行时(Now)
+含义：一个动作现在正在进行
+结构：主 + am / is / are + doing(v.ing 现在分词)
+am / is / are + doing
+	v. + ing : 
+		eating / opening / reading
+		eg.She is reading a book.
+
+		去e + ing（e不发音）
+		come - coming / make - making / dance - dancing
+		eg.They are dancing.
+
+		双写 + ing
+		run - running / sit - sitting / swim - swimming
+		eg.They are running on the street.
+
+现在进行时：否定句
+结构：主 + am / is / are + not + doing
+	She is not reading books.
+	She is not making the bed.
+
+现在进行时：一般疑问句
+结构：am / is / are(提句首) + 主 + doing?
+	Is she opening the door?
+	Yes,she is.
+	Are they sitting on the floor?
+	Is she turning off the phone?
+
+现在进行时：特殊疑问句
+结构：What + am / is / are + 主 + doing？
+	What are they doing?
+	Are they dancing?
+	Yes,they are dancing.
+
+garden
+	There are some chairs in the garden.
+	Are there any chairs in the garden?
+
+under prep.
+	There is a cat under the table.
+	What is the cat doing?
+	I don't know.
+	
+tree
+	There are some chilren under the tree.
+	What are they doing?
+	They are reading books.
+
+climb v.
+	The boy is climbing the tree.
+	Is the boy climbingthe tree?
+	What is the boy climbing?
+	
+Who
+	
+run v.
+	The man is runing.
+
+grass n.
+	The man is running on the grass. 
+
+after prep.
+	The dog is runing after the cat.
+
+across prep.
+
+*/
+
+
+/**
+语法&&文章
+
+特殊疑问句的特殊情况？
+
+Who 特殊疑问句
+
+The is climbing the tree.
+
+对主语提问，直接用特殊疑问词代替主语
+
+Who is climbing the tree?
+
+climb
+	They are climbing the wall.
+	Who are climbing the wall?	
+
+take off
+	He is taking off the coat.
+	Who is taking off the coat?
+
+What about the dog?
+
+*/

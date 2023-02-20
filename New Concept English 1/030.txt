@@ -1,0 +1,39 @@
+/**
+Practices&&Words
+
+empty v.
+	empty the glass.
+
+read v.
+	read the book.
+
+sharpen v.
+	sharpen the knife.
+
+put on - 穿戴
+	put on your coat.
+
+take off - 脱下
+	take off your watch.
+
+turn on - 打开
+	turn on the TV.
+
+turn off - 关闭
+	turn off your phone.
+
+make
+	The beds are untidy.
+	Make the beds.
+
+open
+	It's a hot day and the windows are shut.
+	Open the windows.
+
+sharpen
+	The pencils in the desk are blunt.
+	Sharpen the pencils in the desk.
+
+empty
+	There is some old milk in a bottle in the refrigerator.
+*/

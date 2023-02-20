@@ -1,0 +1,57 @@
+/**
+
+Grammar&&Words
+
+n.复数的变化规则?
+
+以f或fe结尾的，把f或fe变成v，再加-es，读[vz]
+	housewife - housewives / knife - knives / thief - thieves
+
+辅音字母+y结尾的，变y为i,再加-es，读[z]
+	country - countries / family - families / city - cities
+
+元音字母 + y结尾的，直接+s
+	day - days / boy - boys
+
+n.复数的发音规则?
+
+employee
+
+handworking adj. / He is a hard-working man.
+
+sales / rep / salesman / saleswoman / What's her job?
+
+man - men / woman - women
+
+office / officer
+
+assistant / She is an office assistant
+*/
+
+/**
+Grammer&&Story
+
+Who引导的特殊疑问句？
+
+如何表达“过来见见某人”？
+
+Come and meet sb.
+
+Those women are very hard-working.
+
+This is sb and this is sb.
+
+How do you do?
+
+Who is this young man? / Who - 谁
+
+Who特殊疑问句
+
+This is Leo / Is that Leo? / Who is that?
+
+This young man is Leo. / Who is this young man? / Is this young man Leo?
+
+Who's / Whose
+
+Yes,they are. / No,they aren't. / Yes,he is.
+*/

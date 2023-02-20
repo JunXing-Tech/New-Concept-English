@@ -1,0 +1,65 @@
+/**
+单词
+
+umbrella n.
+
+please / Please,please,please!
+
+here / come here / Is Leo here?
+
+my + n.
+
+ticket / one way ticket
+	return ticket / round-trip ticket
+	one ticket to ___ 买一张去某地的一张票
+
+number
+
+five
+
+115 --- one one five / 150 --- one five zero
+
+sorry / I am so sorry.
+
+sir madam
+
+cloakroom / cloak + room cloak : 斗篷
+
+如何表达拜托了？
+Please,please,please!
+
+如何买一张去某地的票？
+one ticket to ___
+
+如何用0 - 9表达一切数字？
+115 --- one one five / 150 --- one five zero
+*/
+
+/*
+语法和文章
+
+Here is my ___.
+
+Here is my number. 
+
+take my coat.
+
+Is this your unbrella?
+
+No,it isn't / Yes,it is.
+
+否定句
+
+is + not
+
+This is not my umbrela.
+
+如何表达这不是我的？
+is + not
+
+如何表达给你我的外套？
+take my coat.
+
+英文的缩写？
+
+*/

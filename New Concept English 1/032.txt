@@ -1,0 +1,36 @@
+/**
+Practices&&Words
+
+type v.
+
+letter n.
+	What is she doing?
+	Is she look at a picture?
+	She is typing a letter.
+
+basket n.
+
+eat v.
+
+bone n.
+
+clean v.
+
+tooth - teeth n.
+
+cook v. meal n.
+
+drink v.
+
+milk n.
+
+tap n.
+
+be + v.ing
+
+Is the cat doing?
+No,it isn't eating?
+What's it doing?
+It's drinking its milk.
+
+*/
