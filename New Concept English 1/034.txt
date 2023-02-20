@@ -1,0 +1,36 @@
+/**
+单词&&练习
+
+sleep - sleeping
+	What is the baby doing?
+	The baby is sleeping with his father.
+
+shave - shaving
+
+cry - crying
+
+wash - washing
+
+wait - waiting
+	What are they doing?
+	They are waiting for a bus.
+
+jump - jumping
+
+are / is / are + doing(v.现在分词)
+
+What + be + 主语 + doing?
+	What are the cooking doing?
+	Are thry washing dishes?
+	No,they aren't washing dishes.
+	They're cooking.
+
+	What are the men and women doing?
+	Are they walking over the bridge?
+	No,they aren't waiking over the bridge.
+	They're waiting for a bus.
+	
+*/
+
+
+
