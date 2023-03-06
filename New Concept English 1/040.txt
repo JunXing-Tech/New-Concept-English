@@ -1,0 +1,35 @@
+/**
+单词&&练习
+
+1.如何表达“展示某人某物”？
+
+2.如何表达“寄送某人某物”？
+
+3.如何表达“带给某人某物”？
+
+show
+	show me your passport.
+	show sb.sth. = show sth. to sb.
+	What are you going to do with your passport?
+
+send
+	send me a postcard.
+	send sb.sth. = send sth. to sb.
+
+take / 拿 / 携带
+	take me some coffee.
+	take sb. sth. = take sth. to sb.
+	What are you going to do with the coffee?
+	I am going to take it to Leo.
+
+put on / 穿戴
+	Are you going to put on your hat?
+	Yes,I'm going to put it on.
+	Are you going to take off your hat?
+	No,I'm not going to take it off.
+
+take off.
+
+turn on. / turn off.
+	
+*/

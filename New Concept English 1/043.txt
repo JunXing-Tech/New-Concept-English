@@ -1,0 +1,96 @@
+/**
+Grammar&&Wordss
+
+1.如何情态动词can?
+
+情态动词
+	can / 能
+	肯：主 + can + do（动词原型）
+	Bird can fly in the sky.
+	Dog can swim in the water.
+	Cat can climb the wall.
+
+	否：主 + can + not + do（动词原型）
+	cannot = can not = can't
+	Cat can't read a book.
+	Elephant can't jump.
+
+	一般：Can(提句首) + 主 + do(动词原型)?
+	Can you help me?
+	Yes, I can.
+	Can kiwi fly?
+
+	特殊：What + can + 主 + do（动词原形）？
+	What can the bird do?
+	What can the cat do?
+	It can climb a tree.
+	What can the grasshopper do?
+	What can you do?
+
+of course
+
+kettle n.
+	He is washing the kettle.
+	What is she going to do with that kettle?
+	do with 处理
+	She is going to give it to Leo.
+
+behind / 在...后面
+	in front of?
+	Where is he?
+	Look, he is standing behind the tree.
+
+teapot
+	
+now
+
+find v.
+	Can you see the bird?
+	I can't find it.
+
+boil v.
+*/
+
+/**
+文章
+
+Can you make the tea.
+Yes, of course I can, Penny,
+
+over there. / 在那里。
+
+Yes. Here they are.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+

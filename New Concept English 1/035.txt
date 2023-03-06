@@ -1,0 +1,113 @@
+/**
+语法&&单词
+
+1.如何避免遗忘之前学过的内容？
+
+2.如何表达“再给我一个月？”
+
+3.如何使用prep.?
+
+photograph / photos
+	This is a photo of my parents.
+	They are sitting under the tree.
+
+village
+	This is a small village.
+	Where is the village?
+	We are walking in the village.
+	There are some houses in the village.
+	总结 + 造句
+
+valley
+
+hill
+
+another
+	Give him another month to think about it.
+
+wife / husband
+	The husband is sitting beside his wife.
+
+bank
+
+water
+
+swim
+	What is the man doing?
+	The man is swiming in the river.
+
+building n.
+
+park
+
+between perp.
+
+into (从外面到里面)
+
+out of (从里面到外面)
+
+	What is his wife doing?
+	She is walking into a shop.	
+
+	What are the children doing?
+	The children are running out of school.
+
+along (沿着)
+
+across (穿过)
+
+	What are they doing?
+	They are walking along the river.
+
+	What are they doing?
+	They are swimming across the river.
+
+beside(紧紧挨着或者靠近)
+
+near(在他的周围)
+
+	The left man is sitting beside the woman.
+	The right man is sitting near the woman.
+
+under(在...的下方)
+
+over(跨越)
+
+	What is the ship doing?
+	The ship is going under the bridge.
+
+	What are the planes doing?
+	They are flying over the bridge.	
+
+in(在...里面)
+
+on(在...上面)
+	
+	What is Susan doing?
+	She is sitting on the floor.
+
+	What are your grandparents doing?
+	They are sitting in the park.
+
+off(从上面离开)
+
+onto(从下边上去而不进入)
+
+	What are they doing?
+	They are jumping off the wall.
+
+	What is he doing?
+	He is jumping onto his car. 
+*/
+
+/**
+Story
+
+on 后面 + 江 / 河 / 湖 / 海 的时候 可以表示 “附近(near)” 的意思
+
+Is this a photograph of our village?
+
+What...?
+	
+What is this a photograph of?(这是一张关于什么的照片？)
+*/

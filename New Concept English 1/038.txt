@@ -1,0 +1,72 @@
+/**
+单词&&练习
+
+homework n.
+	do my homework
+
+listen v.
+	
+dish - dishes
+
+going to do
+
+	现在进行时
+		What is he doing?
+		He is looking at his homework.
+	一般将来时
+		What is he going to do?
+		He is going to do his homework.
+
+listen to
+	What is he doing?
+	He is turning on the stereo.
+	What is he going to do?
+	He is going to listen to music.
+	What is she doing now?
+	She is listening to music.
+
+walk-wait for
+	What are they doing?
+	They are walking torhe bus stop.
+	What are they going to do?
+	They are going to wait for a bus.
+
+wait for
+	What are you doing now?
+	We're waiting for a bus.
+
+paint
+
+wash
+	我(I)用am, 你(you)用are
+	is跟着他(he)、她(she)、它(it)。
+	What are you washing now?
+	I'm going to wash the dishes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/

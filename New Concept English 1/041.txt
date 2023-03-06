@@ -1,0 +1,58 @@
+/**
+语法&&单词&&文章
+
+1.什么是不可数名词？
+
+可数名词 cn.
+单复数只针对可数名词
+
+不可数名词 un.
+
+单数可数名词表示泛指时，前面要用不定冠词a (an);
+表示特指时，前面要用定冠词the; 
+而不可数名词前不能用a (an)修饰，表示特指时，前面一定要用定冠词the。
+
+如何判断可数与否？
+1.液体 milk / 气体 air
+2.组成过小 sand / grass / hair
+3.总称 food / fruit / money
+4.同一个单词，含义不同
+5.字典
+
+cheese
+	a piece of cheese.
+	some cheese
+
+bread
+	a piece of bread.
+	a loaf of bread.
+	
+soap
+	a bar of soap.
+
+chocolate
+
+sugar
+	a pound of sugar.
+
+coffee
+	a cup of coffee.
+
+tea
+	half a pound of tea.
+
+tobacco
+	a tin of tobacco
+	some tobacco
+
+What's in it?
+
+Is that tin of tobacco for me?
+	
+Well,it's certainly not for me!
+
+
+Is that tin of tobacco for Sam?
+Who...for?
+Who is that tin of tobacco for?
+*/

@@ -1,0 +1,77 @@
+/**
+Grammar&&Words
+
+1.如何使用“一般将来时”？
+
+2.如何降低单词使用错误率？
+
+3.去哪里查找动词？
+
+时&态
+	动作发生的时间
+	动作的状态
+
+一般将来时
+	含义：计划打算
+	结构：主 + am / is / are + doing to do(v.原型)
+
+am / is / are + going to do
+	He is going to shave.
+	gonna do.
+	He is going to jump off the building.
+
+
+一般将来时：否
+	结构：主 + am / is /are + not + going to do (v.原型)
+	I am not going to wash the dishes.
+	take ... off 脱下
+
+一般将来时：一般
+	结构：Am / Is / Are（提句首） + 主 + going to do（v.原型）
+	Is she going to swim?
+	Are you going to eat that?
+
+一般将来时：特殊
+	结构：What am / is / are + 主  + going to do？
+	What is she going to do?(do)
+
+work v.
+	What are they doing?
+	Are they eating?
+	They are working in the office.
+
+hard adv.
+
+make v.
+	What is he doing?
+	He is making a bookshelf.
+
+	What is he going to do?
+	He is going to make a bookshelf.
+
+bookcase.
+	Are you going to make a bookcase?
+	What are you doing,now?
+	I am making a bookcase.
+
+hammer n.
+
+paint v.
+
+pink adj.
+
+favourite adj.
+	Whose umbrella is this?
+*/
+
+/**
+Story
+
+1.如何表达“这是给你的”？
+
+for sb. 含义：给某人
+	This apple is for you.
+	Who is this for?
+	Who's it for? 给谁准备的？
+
+*/
