@@ -1,0 +1,54 @@
+/**
+Grammar&&Words&&Story
+
+1.一般现在时？
+
+时&态
+	动作发生的时间
+	动作的状态
+
+一般现在时
+	含义：客观事实 / 存在状态 L51-54
+		习惯动作 L55-58
+一般：0状态，不强调动作状态
+
+![image-20230306172109863](C:\Users\JunXing\AppData\Roaming\Typora\typora-user-images\image-20230306172109863.png)
+
+一般选择时：肯
+	I want this job. 
+	I like tea. / I do like tea. / do 表强调
+
+一般现在时：否
+	do not = don't 
+	I don't like tea.
+I don't want this.
+
+一般现在时：一般	
+	Do提句首
+	Do you want this job?
+	Yes, I do.
+	No, I don't.
+
+You don't know me, and I don't know you.
+
+Why can't you... 为什么你不能？
+
+一般现在时：特殊
+	特殊疑问句 = 特殊疑问词 + 一般疑问句（去掉答案）
+	
+	I want this job.
+	Do you want this job?
+	What do you want?
+
+like
+	I like coffee.
+	I do like coffee.
+	Do you like coffee?
+	Why don't...
+	Why don't you like coffee?
+	I don't like coffee.
+	What do you like?
+
+want
+
+*/

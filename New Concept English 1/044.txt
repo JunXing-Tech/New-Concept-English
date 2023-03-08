@@ -1,20 +1,37 @@
 /**
 Practices
 
+bread
+	Is there any bread here?
+	Yes, there is.
+	There's some on the table.
+	
+There is some food in the icebox.
 
+hammers
+	Are there any hammers here?
+	Yes, there are.
+	There are some behind that box.
 
+milk
+	There's some in front of the door.
 
+soap
 
+newspaper
 
+water
 
+tea
+	
+cups
 
+chocolate
 
+teapots
 
+cars
 
-
-
-
-
-
+coffee
 
 */
