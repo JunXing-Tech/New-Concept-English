@@ -1,0 +1,70 @@
+/**
+Story
+
+1.客观事实 / 存在状态?
+
+2.如何使用 how often?
+
+Wher do you come from?
+
+What's the climate like in your country? / 贵国的气候如何？
+
+What's the weather like there?
+	What's n. like there?
+	What's your boyfriend like?
+
+It's often windy in March. It's always warm in April and May, but it rains sometimes.
+
+be + often / always
+
+How often does the sun shine?
+	how often用来提问某动作或状态发生的频率
+
+What...like
+	What's it like in summer?
+*/
+
+/**
+Words
+
+Greece / Greek
+	He comes form Greece.
+	Does he comes from Greece?
+	Where does he come from?
+	He is from Greece.
+	Where is he from?
+
+climate
+	What's the climate like in Beijing?
+	
+country
+	in my country
+	People don't eat dinner in some cointries.
+	Why don't people eat dinner in these cointries?
+
+pleasant adj. / weather n.
+	The weather is pleasant in Auckland.
+
+in spring / summer / autumn / winter
+
+windy adj.
+
+warm adj.
+	I like warm tea in winter.
+	What's the weather like in spring?	
+	
+rain v. / sometimes
+	Sometimes, it rains in spring. 
+	Does it rain in spring sometimes?
+	How often does it rain in spring?
+
+snow v. / sometimes
+
+March / April / May / 3.4.5. / spring
+
+June / July / August / 6.7.8. / sumer
+
+September / October / November / 9.10.11 / autumn
+
+December / January / February / 12.1.2. / winter	
+*/

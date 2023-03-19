@@ -1,0 +1,32 @@
+/**
+Practices&&Words
+
+tomato n.
+	Does Penny like tomates?
+	What does Penny like / want?
+	Yes, she does.
+	She likes tomatoes, but she doesn't want any.
+
+potato
+	
+cabbage
+
+lettuce / 生菜
+
+pea
+
+bean / 豆角
+
+pear / 梨
+
+grape
+
+peach
+
+banana
+
+orange
+
+apple
+
+*/

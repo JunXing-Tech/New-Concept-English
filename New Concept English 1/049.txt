@@ -1,0 +1,103 @@
+/**
+单词
+1.如何表达"牛排几分熟"?
+
+2.如何表达"我也不是"?
+
+butcher n.
+	at the butcher's / 在肉店
+
+meat n.
+	Can you wash these meat, please?
+	I am going to cook some meat for you.
+
+beef
+	Do you like beef?
+	I like beef.But I don't want any beef now.
+
+lamb / sheep
+
+pork
+	Can you cook port?
+
+husband
+
+steak
+	How do you like your steak?
+	rare / medium / well-done
+
+mince / 肉馅
+	Can you give me some mince, please
+
+chicken
+
+tell
+	You can tell me.
+	Can you tell me?
+	I am going to tell you.
+truth
+	tell me the truth
+
+either
+	me either / 否定
+*/
+
+/**
+Grammer&&Story
+
+1.一般现在时 does?
+
+2.v.s 第三人称单数
+
+I want this job.
+
+He wants this job, too
+
+does 表强调
+
+He does want this job.
+
+He She it 第三人称单数为主语
+
+一般现在时的时态之下,当第三人称单数为主语时, v. + s
+
+s x ch sh o 结尾的v. 加es
+watches; goes; washes; does
+	He washes dishes every day.
+	第三人称单数为主语
+	washes 第三人称动词变化
+	dishes 名词复数
+
+辅音字母 + y结尾, 变y为i + es
+	cry - cries; fry - fries
+
+元音字母+y结尾，直接 + s
+	buy - buys / say - says
+	He buys a new phone every year.
+
+一般现在时：否定
+	He wants this job.
+	He doesn't want this job.
+
+does + not
+	She washes the dishes every day.
+	She doesn't wash the dishes every day.
+
+does not like you / 不喜欢你
+
+一般现在时：一般
+	He wants this job.
+	Does he want this job?
+	
+	She washes the dishes every day.
+	Does she wash the dishes every day?
+
+My husband likes steak, but he doesn't like chicken.
+
+To tell you truth, Mrs.Bird, I don't like chicken either!
+
+Ask me if she wants that piece of steak.
+	Does she want that piece of steak?
+	Which piece...?
+	Which piece of steak does she want?
+*/
