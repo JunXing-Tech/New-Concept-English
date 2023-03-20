@@ -1,21 +1,64 @@
 /**
+单词
 1.如何表达“对话”？
 
 mild always
 
 north / east / west / south /
+	in the north
 
+wet adj.
+	The dog is wet.
+	Why is the dog wet?
+	It swims in that river every day. 
+	Does it swim in that river every day?
+	How often does it swim in that river?
 
+season
+	spring / summer / autumn / winter
 
+best
+	He is the best in NBA history.
 
+night
+	at night
+	The nights are short in summer.
 
+rise / early
+	The sun rises early in summer.
+	"The sun" 可用 it代替 为三单 故 rise + s
+	The sun rises late in winter.
+	Does the sun rise late in winter?
 
+set / late
+	The sun sets early in winter.
 
+interesting
 
+subject
 
+conversation
+	have a conversation
+	They are having a conversation.
 
+I'm having this conversation with my computer.
+*/
 
+/**
+Story
 
+Where do you come from?
+	I come from England.
 
+The waether's often cold in North and windy in the East.
+It's often wet in the West and sometimes warm in the south.
+
+Which seasons do you like best?
+
+The sun rises early and set late.
+
+It's our favourite subject of conversation.
+
+What's the weather like in the East?
 
 */

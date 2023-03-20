@@ -1,0 +1,28 @@
+/**
+Practices&&Words
+
+Australia / Australian
+	Where do you come from?
+	Are you Australian?
+	Yes, I come from Australia.
+
+Austria / Austrian
+
+Canada / Canadian
+
+Finland / Finnish
+	Where do I come from?
+
+India / Indian
+
+Nigeria / Nigerian
+
+Turkey / Turkish
+
+Korea / Korean
+
+Poland / Polish
+
+Thailand / Thai
+	Where do we both come from?
+*/
